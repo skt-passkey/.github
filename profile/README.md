@@ -71,7 +71,7 @@ Stay tuned for announcements and opportunities to collaborate.
 ## Contact
 
 - Developer Q&A: [GitHub Discussions](https://github.com/orgs/skt-passkey/discussions)
-- Email: `passkey [at] sk.com`
+- Email: passkey@sktelecom.com
 - Website: [passkey.sktelecom.com](https://passkey.sktelecom.com)
 - Partner Portal: [portal.passkey-sktelecom.com](https://portal.passkey-sktelecom.com)
 
